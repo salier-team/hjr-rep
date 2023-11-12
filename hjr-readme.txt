@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-hjr cichuzhixiugai add caozuo.
+hjr cichuzhixiugai zhi add neirong butianjiazhifenzhi ranhou you jinxing xiugai zhijie commit.
