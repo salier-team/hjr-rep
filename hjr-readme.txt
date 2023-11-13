@@ -4,4 +4,9 @@ hjr cichuzhixiugai zhi add neirong butianjiazhifenzhi ranhou you jinxing xiugai 
 having writed some thing to review this line, see messages now.
 accc
 Creating a new branch is quick.
+<<<<<<< HEAD
 main Creating a new branch is quick.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
+Creating a new branch is quick AND simple.
